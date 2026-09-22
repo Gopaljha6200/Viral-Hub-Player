@@ -1,1 +1,8 @@
-
+{
+  "name": "viral-hub-player",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@vercel/blob": "2.6.1"
+  }
+}
